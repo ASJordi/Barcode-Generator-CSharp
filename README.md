@@ -23,7 +23,7 @@
     <img src="icon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">SistemaG</h3>
+<h3 align="center">Barcode Generator CSharp</h3>
 
   <p align="center">
     Barcode Generator in CSharp
